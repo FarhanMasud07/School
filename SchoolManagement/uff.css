@@ -1,0 +1,81 @@
+body{
+    background-image: url(../SchoolManagement/image/pexels-photo-54278.jpeg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+
+#frm{
+    margin:  100px auto ;
+    border: solid gray 1px;
+    border-radius: 3%;
+    width : 20%;
+    padding-bottom: 15px;
+    text-align: center;
+    padding-top: 20px;
+    background-color:coral;
+    opacity: 0.9;
+   
+}
+#btn{
+    
+    background: #337ab7;;
+    color: #fff;
+    padding: 7px;
+    border-radius: 20%;
+    margin-left:45%;
+}
+label{
+    color: #fff;
+   
+}
+input{
+    border-radius: 7%;
+    margin: auto;
+}
+#inv{
+   
+    width: 20%;
+    margin: 0px auto;
+    text-align: center;
+    padding: 10px;
+    background-color: hotpink;
+    color: #fff;
+    border-radius: 3%;
+   
+}
+#la{
+    color: aliceblue;
+}
+#signup{
+    
+     
+   background-color:#004EA8;
+   
+    margin: 0px auto;
+       
+}
+li{
+    float: right;
+    margin-top: -60px;
+    list-style-type: none;
+    padding: 6px;
+    
+  
+    
+}
+
+a:link,a:visited{
+    display: block;
+   
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+    font-family: monospace;
+    font-size: 20px;
+}
+a:hover{
+    color: bisque;
+}
